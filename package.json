@@ -1,0 +1,22 @@
+{
+  "name": "piggies",
+  "version": "1.0.0",
+  "description": "Simple JS project for educational purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jermaine Walker",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stateofjermaine/piggies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stateofjermaine/piggies/issues"
+  },
+  "homepage": "https://github.com/stateofjermaine/piggies#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
